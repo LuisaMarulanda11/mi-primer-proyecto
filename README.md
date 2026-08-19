@@ -1,6 +1,6 @@
 # Mi primer proyecto
 
-Hola, mi nombre es **Luisa Fernanda Marulanda**.
+Hola, mi nombre es **Luisa Marulanda**.
 
 ## Sobre mí
 Soy estudiante de **Programación de Software y Contenidos Digitales** en el Colegio Santa María.
